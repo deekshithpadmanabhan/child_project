@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="3.399" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="10"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\de323055\Documents\Maven\apache-maven-3.6.3\bin\child1\src\test\parent1\test-classes;C:\Users\de323055\Documents\Maven\apache-maven-3.6.3\bin\child1\src\test\parent1\classes;C:\Users\de323055\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\de323055\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\de323055\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\de323055\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\de323055\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\de323055\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\de323055\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Users\de323055\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="10"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Oracle\OpenJDK 10.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\de323055\AppData\Local\Temp\surefire2996699849753691700\surefirebooter17913026369070682106.jar C:\Users\de323055\AppData\Local\Temp\surefire2996699849753691700 2020-04-07T15-50-57_226-jvmRun1 surefire3650252206262468086tmp surefire_02746079665552310491tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\de323055\Documents\Maven\apache-maven-3.6.3\bin\child1\src\test\parent1\test-classes;C:\Users\de323055\Documents\Maven\apache-maven-3.6.3\bin\child1\src\test\parent1\classes;C:\Users\de323055\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\de323055\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\de323055\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\de323055\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\de323055\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\de323055\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\de323055\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Users\de323055\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\de323055"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2018-04-17"/>
+    <property name="java.home" value="C:\Program Files\Oracle\OpenJDK 10.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\de323055\Documents\Maven\apache-maven-3.6.3\bin\child1"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\de323055\AppData\Local\Temp\surefire2996699849753691700\surefirebooter17913026369070682106.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="10.0.1+10"/>
+    <property name="user.name" value="de323055"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\de323055\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\de323055\AppData\Local\Temp\"/>
+    <property name="java.version" value="10.0.1"/>
+    <property name="user.dir" value="C:\Users\de323055\Documents\Maven\apache-maven-3.6.3\bin\child1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Oracle\OpenJDK 10.0.1\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.232-1\bin;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.232-1\jre\bin;C:\Users\de323055\Documents\Maven\apache-maven-3.6.3\bin;C:\Users\de323055\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Oracle\OpenJDK 13\bin;C:\Users\de323055\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\de323055\AppData\Local\Git\cmd;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="10.0.1+10"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="54.0"/>
+  </properties>
+  <testcase name="gethai" classname="parent1.hai1" time="0.014"/>
+  <testcase name="heltij" classname="parent1.hai2" time="0.001"/>
+  <testcase name="hellog" classname="parent1.AppTest" time="0.009"/>
+</testsuite>
